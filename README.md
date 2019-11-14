@@ -1,5 +1,8 @@
 ## React Youtube Browser
 
+Add Youtube Data API v3 API key in src/apis/youtube.js
+[API Docs](https://developers.google.com/youtube/v3)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
